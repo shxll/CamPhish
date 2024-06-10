@@ -13,6 +13,7 @@ cd CamPhish/
 
 # Uso
 ```bash
+chmod +x camphish.sh
 bash camphish.sh
 ou
 ./camphish.sh
