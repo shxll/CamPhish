@@ -1,7 +1,7 @@
 # Instalação 
 
 ```bash
-sudo apt install php openssh git wget ngrok
+sudo apt install php openssh-client openssh-server git wget ngrok
 ```
 
 # Clone ferramenta
