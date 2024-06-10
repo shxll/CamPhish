@@ -1,7 +1,8 @@
 # Instalação 
 
 ```bash
-sudo apt install php openssh-client openssh-server git wget ngrok
+sudo apt install php openssh-client openssh-server git wget snap
+sudo snap install ngrok
 ```
 
 # Clone ferramenta
