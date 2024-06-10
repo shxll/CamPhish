@@ -14,7 +14,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.7 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/hxll \e[0m \n"
+printf " \e[1;77m www.techchip.net | https://www.youtube.com/@sharllanpaulino6142 \e[0m \n"
 
 printf "\n"
 
