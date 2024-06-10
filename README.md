@@ -24,6 +24,8 @@ ou
 - [01] Ngrok
 - [02] Serveo.net
 
+>requer alguma familiaridade com ambiente ngrok
+>autenticar token
 
 ### BOM PROVEITO!
 
