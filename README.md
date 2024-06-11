@@ -12,6 +12,15 @@ git clone https://github.com/shxll/CamPhish.git
 cd CamPhish/
 ```
 
+# Ferramenta Ngrok
+```bash
+https://ngrok.com/
+>Crie sua conta!
+>https://dashboard.ngrok.com/get-started/your-authtoken
+>Entre na sua dashboard para pegar sua chave token
+ngrok config add-authtoken $YOUR_AUTHTOKEN
+```
+
 # Uso
 ```bash
 chmod +x camphish.sh
@@ -24,8 +33,7 @@ ou
 - [01] Ngrok
 - [02] Serveo.net
 
->requer alguma familiaridade com ambiente ngrok
->autenticar token
+>Caso já tenha configurado sua token apenas dê Enter, senão entre na conta ngrok e copie sua token.
 
 ### BOM PROVEITO!
 
