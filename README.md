@@ -14,9 +14,9 @@ cd CamPhish/
 
 # Ferramenta Ngrok
 ```bash
-https://ngrok.com/
+> Entre no seu navegador: https://ngrok.com/
 >Crie sua conta!
->https://dashboard.ngrok.com/get-started/your-authtoken
+>No seu navegador: https://dashboard.ngrok.com/get-started/your-authtoken
 >Entre na sua dashboard para pegar sua chave token
 ngrok config add-authtoken $YOUR_AUTHTOKEN
 ```
