@@ -5,7 +5,7 @@ sudo apt install php8.2 openssh-client openssh-server git wget snap
 sudo snap install ngrok
 ```
 
-# Clone ferramenta
+## Clone ferramenta
 
 ```bash
 git clone https://github.com/shxll/CamPhish.git
@@ -28,7 +28,7 @@ bash camphish.sh
 ou
 ./camphish.sh
 ```
-# Interface
+## Interface
 
 - [01] Ngrok
 - [02] Serveo.net
@@ -37,7 +37,7 @@ ou
 
 ### BOM PROVEITO!
 
-# Redes Sociais
+## Redes Sociais
 [Facebook](https://www.facebook.com/Shall777)
 [Twitter](https://twitter.com/sharllanp)
 [Linkedin](https://br.linkedin.com/in/sharllan-paulino)
