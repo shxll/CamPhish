@@ -1,7 +1,7 @@
 # Instalação 
 
 ```bash
-sudo apt install php openssh-client openssh-server git wget snap
+sudo apt install php8.2 openssh-client openssh-server git wget snap
 sudo snap install ngrok
 ```
 
