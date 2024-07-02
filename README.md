@@ -39,7 +39,7 @@ ou
 ## Interface
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/shxll/Finalrecon/main/Image/finalrecon.png">
+  <img src = "https://raw.githubusercontent.com/shxll/CamPhish/main/Image/camphish.png">
 </p>
 
 >Caso já tenha configurado sua token apenas dê Enter, senão entre na conta ngrok e copie sua token.
